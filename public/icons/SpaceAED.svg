@@ -1,0 +1,16 @@
+<svg width="32" height="32" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 21C20.2652 21 20.5196 20.9097 20.7071 20.7489C20.8946 20.5882 21 20.3702 21 20.1429V15.8571C21 15.6298 20.8946 15.4118 20.7071 15.2511C20.5196 15.0903 20.2652 15 20 15" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 21H2.02857C1.75578 21 1.49416 20.9097 1.30126 20.7489C1.10837 20.5882 1 20.3702 1 20.1429V15.8571C1 15.6298 1.10837 15.4118 1.30126 15.2511C1.49416 15.0903 1.75578 15 2.02857 15H20" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.5 20.7031V18.7031" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.5 20.7031V18.7031" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.5 20.7031V18.7031" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.5 20.7031V18.7031" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.5 20.7031V18.7031" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M3.5 20.7031V18.7031" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 15V16" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 15V16" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 15V16" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 15V16" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5 15V16" stroke="#76BC1A" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.68893 11.0007L2.28977 9.26847H4.84659L5.44425 11.0007H6.49255L4.13708 4.45526H2.99609L0.640625 11.0007H1.68893ZM2.57741 8.4375L3.54262 5.64418H3.59376L4.55894 8.4375H2.57741ZM7.43777 11.0007H11.5798V10.1506H8.42533V8.14666H11.3273V7.29972H8.42533V5.3054H11.5414V4.45526H7.43777V11.0007ZM14.9795 11.0007C16.9739 11.0007 18.1276 9.76385 18.1276 7.71839C18.1276 5.68253 16.9739 4.45526 15.0467 4.45526H12.8606V11.0007H14.9795ZM13.8482 10.1378V5.31818H14.9859C16.4178 5.31818 17.156 6.17472 17.156 7.71839C17.156 9.26847 16.4178 10.1378 14.9252 10.1378H13.8482ZM21.4115 4.14844H20.5582L18.4488 11.9851H19.3022L21.4115 4.14844Z" fill="#76BC1A"/>
+</svg>
